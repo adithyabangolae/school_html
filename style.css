@@ -1,0 +1,160 @@
+
+
+
+
+.button1 {
+  text-align: center;
+  font-size: 16px;
+  position:absolute;
+  left:100px;
+  top:570px;
+  height:20px;
+  width:200px;
+  background-color: blue;
+  border: none;
+  
+  
+  
+  
+}
+
+.button2 {
+  text-align: center;
+  font-size: 16px;
+  position:absolute;
+  left:350px;
+  top:570px;
+  height:20px;
+  width:200px;
+  border: none;
+  
+  
+
+}
+
+.button3 {
+  text-align: center;
+  font-size: 16px;
+  position:absolute;
+  left:25px;
+  top:70px;
+  height:20px;
+  width:200px;
+  border: none;
+
+
+
+}
+
+.button4 {
+  text-align: center;
+  font-size: 16px;
+  position:absolute;
+  left:25px;
+  top:70px;
+  height:20px;
+  width:200px;
+  border: none;
+  
+
+}
+  
+
+.text_manage {
+  font-size: 20px;
+  font-family: monospace ;
+  margin-right:415px;
+
+
+}
+
+.text_manage1 {
+  font-size: 25px;
+  font-family: 'Gill Sans';
+  margin-right:415px;
+  font-weight: bold;
+
+
+}
+
+.text_intro {
+  font-size: 20px;
+  font-family: monospace;
+  margin-right:410px;
+
+
+}
+
+.text_intro2 {
+  font-size: 25px;
+  font-family: 'Gill Sans';
+  margin-right:400px;
+  font-weight: bold;
+
+
+}
+
+.citations {
+
+  position:absolute; 
+  left:75px; 
+  top:650px;
+  font-family: monospace;
+  color: white;
+  padding: 5px; border: 4px solid white;
+  
+ 
+}
+
+.contact_d {
+
+  position:absolute; 
+  left:75px; 
+  top:50px;
+  font-family: monospace;
+  color: white;
+  padding: 10px; border: 4px solid white;
+ 
+}
+
+.list_intro {
+  color:blue;
+  font-size: 20px;
+  font-family:"monospace";
+  font-weight:bold;
+  text-align: center;
+}
+
+.list_manage {
+  color:black;
+  font-size: 20px;
+  font-family: "Gill Sans";
+  font-weight:bold;
+  text-align: center;
+}
+
+.list_manage1 {
+  color:black;
+  font-size: 20px;
+  font-family: "Gill Sans";
+  font-weight:bold;
+  text-align: center;
+ 
+}
+
+a:link {
+  color: black;
+  
+}
+
+a.class {
+  color:white;
+}
+
+
+
+
+
+
+
+ 
